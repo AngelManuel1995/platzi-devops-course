@@ -1,0 +1,19 @@
+{
+  "name": "platzi-devops-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^6.1.3"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
